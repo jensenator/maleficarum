@@ -12,7 +12,7 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 aux_links:
-  Maleficarum Blog: https://maleficarum.bearblog.dev/
+#  Maleficarum Blog: https://maleficarum.bearblog.dev/
 
 footer_content: "Maleficarum is developed by Jens Hoenscheid"
 
