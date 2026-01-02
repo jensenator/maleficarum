@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Conversions
-parent: BAsic-Rules
+parent: Basic-Rules
 nav_order: 3
 has_children: true
 ---
