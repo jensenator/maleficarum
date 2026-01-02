@@ -6,6 +6,7 @@
   --visited-color: #26252b;
 }
 
+/*
 @font-face {
   font-family: "Oldforge";
   src: local("Oldforge"), url("/fonts/Oldforge.woff") format("woff");
@@ -13,6 +14,7 @@
   font-style: normal;
   font-display: swap;
 }
+*/
 
 @font-face {
   font-family: "Alegreya";
@@ -114,7 +116,7 @@ img {
 .side-bar .nav-list-item,
 .side-bar .nav-list-link {
   font-size: 1.25rem; /* 20px */
-  font-family: "Oldforge", Georgia, serif;
+  font-family: "Alegreya", Georgia, serif;
 }
 
 .nav-list .nav-list-item .nav-list-link:hover,
